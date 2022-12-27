@@ -16,7 +16,7 @@ namespace winformsdima
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+            Application.Run(new MainForm()); // 23234334234423
         }
     }
 }
